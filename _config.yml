@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Chuanfu Xiao / Site Title"
+locale                   : "Beijing, China"
+title                    : "Chuanfu Xiao / Post Doctor"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chuanfu Xiao (肖传福)"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "chuanfuxiao@pku.edu.cn"
   generatedFields:
     date:
       type               : "date"
