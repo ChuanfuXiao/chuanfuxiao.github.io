@@ -35,18 +35,18 @@ Education Experiences
 
 Publications and Preprints
 ======
-* Zhonghao Sun, Jizu Huang, **Chuanfu Xiao**, Chao Yang, HaTT: Hadamard avoiding TT recompression and its applications, preprint, 2025.
-* **Chuanfu Xiao**, Kejun Tang, Zhitao Zhu, Provable low-rank tensor-train approximations in the inverse of large-scale structured matrices, preprint, 2024.
-* Zhitao Zhu, **Chuanfu Xiao**, Kejun Tang, Jizu Huang, Chao Yang, APTT: An accuracy-preserved tensor-train method for the Boltzmann-BGK equation, preprint, 2024.
-* **Chuanfu Xiao**, Zeyu Li, Chao Yang, HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors, preprint, 2024.
-* Qianchao Zhu, Jiangfeng Duan, Chang Chen, Siran Liu, Xiuhong Li, Guanyu Feng, Xin Lv, **Chuanfu Xiao**, Dahua Lin, Chao Yang, SampleAttention: Near-lossless acceleration of long context LLM inference with adaptive structured sparse attention, MLSys 2025.
-* **Chuanfu Xiao**, Chao Yang, RA-HOOI: Rank-adaptive higher-order orthogonal iteration for the fixed-accuracy low multilinear-rank approximation of tensors, Applied Numerical Mathematics, 2024.
-* Cuiyu Liu, **Chuanfu Xiao**, Mingshuo Ding, Chao Yang, Tensor-based sketching method for the low-rank approximation of data streams, ICLR 2023.
-* Lian Duan, **Chuanfu Xiao**, Min Li, Mingshuo Ding, Chao Yang, a-Tucker: Fast input-adaptive and matricization-free Tucker decomposition of higher-order tensors on GPUs, CCF Transaction on High Performance Computing, 2022.
-* **Chuanfu Xiao**, Chao Yang, Min Li, Efficient alternating least squares algorithms for low multilinear rank approximation of tensors, Journal of Scientific Computing, 2021.
-* Ling Tang, **Chuanfu Xiao**, Hanyu Li, A new random perturbation interval of symmetric eigenvalue problem, Linear and Multilinear Algebra, 2021.
-* **Chuanfu Xiao**, Hanyu Li, Improved perturbation intervals of symmetric eigenvalue problem, Linear Algebra and its Applications, 2018.
-* **Chuanfu Xiao**, Hanyu Li, New perturbation bounds of partitioned generalized Hermitian eigenvalue problem, Applied Mathematics and Computation, 2018.
+* Zhonghao Sun, Jizu Huang, **Chuanfu Xiao**, Chao Yang, [HaTT: Hadamard avoiding TT recompression and its applications](https://arxiv.org/abs/2410.04385), preprint, 2025.
+* **Chuanfu Xiao**, Kejun Tang, Zhitao Zhu, [Provable low-rank tensor-train approximations in the inverse of large-scale structured matrices](https://arxiv.org/abs/2501.07210), preprint, 2024.
+* Zhitao Zhu, **Chuanfu Xiao**, Kejun Tang, Jizu Huang, Chao Yang, [APTT: An accuracy-preserved tensor-train method for the Boltzmann-BGK equation](https://arxiv.org/abs/2405.12524), preprint, 2024.
+* **Chuanfu Xiao**, Zeyu Li, Chao Yang, [HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors](https://arxiv.org/abs/2403.01778), preprint, 2024.
+* Qianchao Zhu, Jiangfeng Duan, Chang Chen, Siran Liu, Xiuhong Li, Guanyu Feng, Xin Lv, **Chuanfu Xiao**, Dahua Lin, Chao Yang, [SampleAttention: Near-lossless acceleration of long context LLM inference with adaptive structured sparse attention](https://arxiv.org/abs/2406.15486), MLSys 2025.
+* **Chuanfu Xiao**, Chao Yang, [RA-HOOI: Rank-adaptive higher-order orthogonal iteration for the fixed-accuracy low multilinear-rank approximation of tensors](https://www.sciencedirect.com/science/article/abs/pii/S0168927424000539), Applied Numerical Mathematics, 2024.
+* Cuiyu Liu, **Chuanfu Xiao**, Mingshuo Ding, Chao Yang, [Tensor-based sketching method for the low-rank approximation of data streams](https://arxiv.org/abs/2209.14637), ICLR 2023.
+* Lian Duan, **Chuanfu Xiao**, Min Li, Mingshuo Ding, Chao Yang, [a-Tucker: Fast input-adaptive and matricization-free Tucker decomposition of higher-order tensors on GPUs](https://link.springer.com/article/10.1007/s42514-022-00119-7), CCF Transaction on High Performance Computing, 2022.
+* **Chuanfu Xiao**, Chao Yang, Min Li, [Efficient alternating least squares algorithms for low multilinear rank approximation of tensors](https://link.springer.com/article/10.1007/s10915-021-01493-0), Journal of Scientific Computing, 2021.
+* Ling Tang, **Chuanfu Xiao**, Hanyu Li, [A new random perturbation interval of symmetric eigenvalue problem](https://www.tandfonline.com/doi/full/10.1080/03081087.2019.1590301), Linear and Multilinear Algebra, 2021.
+* **Chuanfu Xiao**, Hanyu Li, [Improved perturbation intervals of symmetric eigenvalue problem](https://www.sciencedirect.com/science/article/pii/S0024379517306547), Linear Algebra and its Applications, 2018.
+* **Chuanfu Xiao**, Hanyu Li, [New perturbation bounds of partitioned generalized Hermitian eigenvalue problem](https://www.sciencedirect.com/science/article/abs/pii/S0096300317307725), Applied Mathematics and Computation, 2018.
 
 Talks and Activities
 ======
