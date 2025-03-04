@@ -12,9 +12,9 @@ Now I am an assistant researcher at PKU Changsha Institute for Computing and Dig
 
 Collaborators:
 
-Kejun Tang (\url{https://www.tangkejun.com/})
+Kejun Tang (https://www.tangkejun.com/)
 
-Zeyu Li (\url{https://zeyuli.cn/})
+Zeyu Li (https://zeyuli.cn/)
 
 Work Experiences
 ======
