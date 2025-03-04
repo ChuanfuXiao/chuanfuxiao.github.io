@@ -11,10 +11,8 @@ redirect_from:
 Now I am an assistant researcher at PKU Changsha Institute for Computing and Digital Economy (ICODE). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. Hanyu Li, and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU), under the supervision of Prof. Chao Yang. After that, I did postdoctoral research at PKU.
 
 Collaborators:
-
-[Kejun Tang](https://www.tangkejun.com/)
-
-[Zeyu Li](https://zeyuli.cn/)
+* [Kejun Tang](https://www.tangkejun.com/)
+* [Zeyu Li](https://zeyuli.cn/)
 
 Research Interest
 ======
