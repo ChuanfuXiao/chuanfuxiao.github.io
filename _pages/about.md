@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Now I am an assistant researcher at PKU Changsha Institute for Computing and Digital Economy (ICODE). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. Hanyu Li, and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU), under the supervision of Prof. Chao Yang. After that, I did postdoctoral research at PKU.
+Now I am an assistant researcher at PKU Changsha Institute for Computing and Digital Economy (ICODE). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU), under the supervision of Prof. Chao Yang. After that, I did postdoctoral research at PKU.
 
 Collaborators:
 * [Kejun Tang](https://www.tangkejun.com/)
@@ -17,9 +17,9 @@ Collaborators:
 Research Interest
 ======
 I am interested in (randomized) numerical linear algebra, tensor computation and applications, tensor networks, model reduction, and parallel computing. Particularly,
-* (randomized) numerical linear algebra: matrix perturbation analysis, randomized algorithms in NLA;
-* tensor computation: algorithms for tensor operators such as tensor decomposition, recompression, and so on;
-* tensor application: tensor in scientific computing, artificial intelligence, data science.
+* (Randomized) numerical linear algebra: matrix perturbation analysis, randomized algorithms in NLA;
+* Tensor computation: algorithms for tensor operators such as tensor decomposition, recompression, and so on;
+* Tensor application: tensors in scientific computing, artificial intelligence, and data science.
 
 Work Experiences
 ======
