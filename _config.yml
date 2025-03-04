@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chuanfu Xiao"
   avatar           : "profile.png"
-  bio              : "Confidence, Self-improvement, Clam"
-  location         : "Changsha"
+  bio              : #"Confidence, Self-improvement, Clam"
+  location         : "Changsha, Hunan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
