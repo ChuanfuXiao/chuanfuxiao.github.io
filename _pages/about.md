@@ -13,6 +13,7 @@ Now I am an assistant researcher at PKU Changsha Institute for Computing and Dig
 Collaborators:
 * [Kejun Tang](https://www.tangkejun.com/)
 * [Zeyu Li](https://zeyuli.cn/)
+* [Zhitao Zhu](https://www.researchgate.net/profile/Zhitao-Zhu)
 
 Research Interest
 ======
