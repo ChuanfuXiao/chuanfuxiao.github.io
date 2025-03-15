@@ -33,10 +33,10 @@ Education Experiences
 * Master, School of Mathematics and Statistics, Chongqing University, Sep. 2015 - Jun. 2018
 * Bachelor, Department of Mathematics and Computer Science, Wuyi University, Sep. 2011 - Jun. 2015
 
-Publications and Preprints
+Publications and Preprints (\\*Corresponding Author)
 ======
-* Zhonghao Sun, Jizu Huang, **Chuanfu Xiao**, Chao Yang, [HaTT: Hadamard avoiding TT recompression and its applications](https://arxiv.org/abs/2410.04385), preprint, 2025.
-* **Chuanfu Xiao**, Kejun Tang, Zhitao Zhu, [Provable low-rank tensor-train approximations in the inverse of large-scale structured matrices](https://arxiv.org/abs/2501.07210), preprint, 2024.
+* Zhonghao Sun, Jizu Huang\\*, **Chuanfu Xiao**, Chao Yang, [HaTT: Hadamard avoiding TT recompression and its applications](https://arxiv.org/abs/2410.04385), preprint, 2025.
+* **Chuanfu Xiao**, Kejun Tang\\*, Zhitao Zhu, [Provable low-rank tensor-train approximations in the inverse of large-scale structured matrices](https://arxiv.org/abs/2501.07210), preprint, 2024.
 * Zhitao Zhu, **Chuanfu Xiao**, Kejun Tang, Jizu Huang, Chao Yang, [APTT: An accuracy-preserved tensor-train method for the Boltzmann-BGK equation](https://arxiv.org/abs/2405.12524), preprint, 2024.
 * **Chuanfu Xiao**, Zeyu Li, Chao Yang, [HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors](https://arxiv.org/abs/2403.01778), accepted by SIAM Journal on Matrix Analysis and Applications, 2025.
 * Qianchao Zhu, Jiangfeng Duan, Chang Chen, Siran Liu, Xiuhong Li, Guanyu Feng, Xin Lv, **Chuanfu Xiao**, Dahua Lin, Chao Yang, [SampleAttention: Near-lossless acceleration of long context LLM inference with adaptive structured sparse attention](https://arxiv.org/abs/2406.15486), MLSys 2025.
