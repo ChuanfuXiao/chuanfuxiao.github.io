@@ -22,13 +22,13 @@ I am interested in (randomized) numerical linear algebra, tensor computation and
 * Tensor computation: algorithms for tensor operators such as tensor decomposition, recompression, and so on;
 * Tensor application: tensors in scientific computing, artificial intelligence, and data science.
 
-Work Experiences
+Work Experience
 ======
 * Assistant Researcher, PKU Changsha Institute for Computing and Digital Economy, Jul. 2024 - present
 * PostDoc., National Engineering Laboratory for Big Data Analysis and Applications & School of Mathematical Science, Peking University， Jul. 2022 - Jun. 2024
 * Intern, Peng Cheng Lab., Jun. 2020 - Jau. 2021
 
-Education Experiences
+Education Experience
 ======
 * PhD., School of Mathematical Science, Peking University， Sep. 2018 - Jun. 2022
 * Master, School of Mathematics and Statistics, Chongqing University, Sep. 2015 - Jun. 2018
@@ -58,7 +58,7 @@ Talks and Activities
 * 2019 Gene Golub SIAM Summer School (G2S3): High Performance Data Analytics, Jul. 2019, Lyon.
 * International Summer School on Scientific Computing: Nonlinear Eigenvalue Computation Methods, Jul. 2017, Beijing.
 
-Honor and Award
+Honors and Awards
 ======
 * AI for Science Contest of Guangdong-Hong Kong-Macao Great Bay Area, Second prize, 2023.
 * Qin-Jin Scholarship, 2021.
