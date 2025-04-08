@@ -68,4 +68,4 @@ Honors and Awards
 * National Master's Scholarship, 2018.
 * Second Prize in the 6th National College Mathematics Competition, 2015.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SrYLVH-Fhq23zcr6sC0kd4-qhTDIKjW_SESl4xa2vbU"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SrYLVH-Fhq23zcr6sC0kd4-qhTDIKjW_SESl4xa2vbU&cl=ffffff&w=a"></script>
