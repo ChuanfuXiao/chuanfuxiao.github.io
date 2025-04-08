@@ -67,3 +67,5 @@ Honors and Awards
 * CQU Outstanding Master's Thesis, 2018.
 * National Master's Scholarship, 2018.
 * Second Prize in the 6th National College Mathematics Competition, 2015.
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SrYLVH-Fhq23zcr6sC0kd4-qhTDIKjW_SESl4xa2vbU"></script>
