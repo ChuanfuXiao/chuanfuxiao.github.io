@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Now I am an assistant researcher at PKU Changsha Institute for Computing and Digital Economy (ICODE). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU). After that, I did postdoctoral research at PKU.
+Now I am an assistant researcher at the PKU Changsha Institute for Computing and Digital Economy (ICODE). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU). After that, I did postdoctoral research at PKU.
 
 Collaborators:
 * [Kejun Tang](https://www.tangkejun.com/)
@@ -40,9 +40,9 @@ Publications and Preprints (\*Corresponding Author)
 * **Chuanfu Xiao**, Kejun Tang\*, Zhitao Zhu, [Provable low-rank tensor-train approximations in the inverse of large-scale structured matrices](https://arxiv.org/abs/2501.07210), preprint, 2024.
 * Zhitao Zhu, **Chuanfu Xiao\***, Kejun Tang, Jizu Huang, Chao Yang, [APTT: An accuracy-preserved tensor-train method for the Boltzmann-BGK equation](https://arxiv.org/abs/2405.12524), preprint, 2024.
 * **Chuanfu Xiao**, Zeyu Li, Chao Yang\*, [HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors](https://arxiv.org/abs/2403.01778), SIAM Journal on Matrix Analysis and Applications (to appear), 2025.
-* Qianchao Zhu, Jiangfeng Duan, Chang Chen, Siran Liu, Xiuhong Li, Guanyu Feng, Xin Lv, **Chuanfu Xiao**, Dahua Lin, Chao Yang\*, [Near-lossless acceleration of long context LLM inference with adaptive structured sparse attention](https://arxiv.org/abs/2406.15486), Machine Learning System (MLSys) 2025.
+* Qianchao Zhu, Jiangfeng Duan, Chang Chen, Siran Liu, Xiuhong Li, Guanyu Feng, Xin Lv, **Chuanfu Xiao**, Dahua Lin, Chao Yang\*, [Near-lossless acceleration of long context LLM inference with adaptive structured sparse attention](https://arxiv.org/abs/2406.15486), The Eighth Annual Conference on Machine Learning and Systems (MLSys) 2025.
 * **Chuanfu Xiao\***, Chao Yang, [RA-HOOI: Rank-adaptive higher-order orthogonal iteration for the fixed-accuracy low multilinear-rank approximation of tensors](https://www.sciencedirect.com/science/article/abs/pii/S0168927424000539), Applied Numerical Mathematics, 2024.
-* Cuiyu Liu, **Chuanfu Xiao**, Mingshuo Ding, Chao Yang\*, [Tensor-based sketching method for the low-rank approximation of data streams](https://arxiv.org/abs/2209.14637), The International Conference on Learning Representations (ICLR) 2023.
+* Cuiyu Liu, **Chuanfu Xiao**, Mingshuo Ding, Chao Yang\*, [Tensor-based sketching method for the low-rank approximation of data streams](https://arxiv.org/abs/2209.14637), International Conference on Learning Representations (ICLR) 2023.
 * Lian Duan, **Chuanfu Xiao**, Min Li, Mingshuo Ding, Chao Yang\*, [a-Tucker: Fast input-adaptive and matricization-free Tucker decomposition of higher-order tensors on GPUs](https://link.springer.com/article/10.1007/s42514-022-00119-7), CCF Transaction on High Performance Computing, 2022.
 * **Chuanfu Xiao**, Chao Yang\*, Min Li, [Efficient alternating least squares algorithms for low multilinear rank approximation of tensors](https://link.springer.com/article/10.1007/s10915-021-01493-0), Journal of Scientific Computing, 2021.
 * Ling Tang, **Chuanfu Xiao**, Hanyu Li\*, [A new random perturbation interval of symmetric eigenvalue problem](https://www.tandfonline.com/doi/full/10.1080/03081087.2019.1590301), Linear and Multilinear Algebra, 2021.
