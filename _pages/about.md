@@ -24,9 +24,10 @@ I am interested in (randomized) numerical linear algebra, tensor computation and
 
 Work Experience
 ======
-* Assistant Researcher, PKU Changsha Institute for Computing and Digital Economy, Jul. 2024 - present
+* Tenure-Track Associate Professor, School of Mathematics and Computational Science at Xiangtan University, Jul. 2025 - present
+* Assistant Researcher, PKU Changsha Institute for Computing and Digital Economy, Jul. 2024 - Jun. 2025
 * PostDoc., National Engineering Laboratory for Big Data Analysis and Applications & School of Mathematical Science, Peking University， Jul. 2022 - Jun. 2024
-* Intern, Peng Cheng Lab., Jun. 2020 - Jau. 2021
+* Intern, Peng Cheng National Lab., Jun. 2020 - Jan. 2021
 
 Education Experience
 ======
