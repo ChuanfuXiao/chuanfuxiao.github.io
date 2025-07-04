@@ -54,7 +54,7 @@ Talks and Activities
 ======
 * HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors, CSIAM Annual Meeting, Oct. 2024, Nanjing.
 * A novel accuracy preserved tensor-train method for solving the Boltzmann-BGK equation, CSIAM Annual Meeting, Oct. 2023, Kuning.
-* Research on low-rank approximation problem of data streams based on tensor method, Huawei Technology Forum, Aug. 2022, Chengdu.
+* Research on the low-rank approximation problem of data streams based on tensor methods, Huawei Technology Forum, Aug. 2022, Chengdu.
 * A general quantum simulator based on the subspace-CP format, Beijing Computational Mathematics Postgraduate Forum, Sep. 2021, Beijing.
 * 2019 Gene Golub SIAM Summer School (G2S3): High Performance Data Analytics, Jul. 2019, Lyon.
 * International Summer School on Scientific Computing: Nonlinear Eigenvalue Computation Methods, Jul. 2017, Beijing.
