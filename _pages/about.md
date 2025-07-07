@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Now I am a tenure-track assistant professor at the School of Mathematics and Computational Science, Xiangtan University (XTU). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU). After that, I did postdoctoral research at PKU.
+Now I am a tenure-track assistant professor at the School of Mathematics and Computational Science, Xiangtan University (XTU). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU), under the supervision of Prof. [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html). After that, I did postdoctoral research at PKU.
 
 Collaborators:
 * [Kejun Tang](https://www.tangkejun.com/)
