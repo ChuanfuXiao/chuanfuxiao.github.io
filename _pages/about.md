@@ -53,6 +53,7 @@ Publications and Preprints (\*Corresponding Author)
 
 Talks and Activities
 ======
+* Provable Low-Rank Tensor-Train Approximations in the Inverse of Large-Scale Structured Matrices, 2025 Randomized Algorithms and Intelligent Computing Workshop, Sep. 2025, Shanghai.
 * HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors, CSIAM Annual Meeting, Oct. 2024, Nanjing.
 * A novel accuracy-preserved tensor-train method for solving the Boltzmann-BGK equation, CSIAM Annual Meeting, Oct. 2023, Kuning.
 * Research on the low-rank approximation problem of data streams based on tensor methods, Huawei Technology Forum, Aug. 2022, Chengdu.
