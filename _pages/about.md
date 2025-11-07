@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Now I am a tenure-track assistant professor at the School of Mathematics and Computational Science, Xiangtan University (XTU). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU), under the supervision of Prof. [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html). After that, I did postdoctoral research at PKU.
+Now I am a tenure-track lecturer at the School of Mathematics and Computational Science, Xiangtan University (XTU). I obtained my master's degree at the School of Mathematics and Statistics, Chongqing University (CQU), under the supervision of Prof. [Hanyu Li](https://faculty.cqu.edu.cn/HanyuLi/zh_CN/index.htm), and obtained my PhD degree at the School of Mathematical Science, Peking University (PKU), under the supervision of Prof. [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html). After that, I did postdoctoral research at PKU.
 
 Collaborators:
 * [Kejun Tang](https://www.tangkejun.com/)
@@ -54,7 +54,7 @@ Publications and Preprints (\*Corresponding Author)
 Talks and Activities
 ======
 * HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors, CSIAM Annual Meeting, Oct. 2024, Nanjing.
-* A novel accuracy preserved tensor-train method for solving the Boltzmann-BGK equation, CSIAM Annual Meeting, Oct. 2023, Kuning.
+* A novel accuracy-preserved tensor-train method for solving the Boltzmann-BGK equation, CSIAM Annual Meeting, Oct. 2023, Kuning.
 * Research on the low-rank approximation problem of data streams based on tensor methods, Huawei Technology Forum, Aug. 2022, Chengdu.
 * A general quantum simulator based on the subspace-CP format, Beijing Computational Mathematics Postgraduate Forum, Sep. 2021, Beijing.
 * 2019 Gene Golub SIAM Summer School (G2S3): High Performance Data Analytics, Jul. 2019, Lyon.
