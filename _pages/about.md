@@ -37,7 +37,7 @@ Education Experience
 
 Publications and Preprints (\*Corresponding Author)
 ======
-* **Chuanfu Xiao\***, Jiaxin Zeng\*, [A novel block-alternating iterative algorithm for retrieving top-k elements from factorized tensors](https://arxiv.org/pdf/2511.07898), preprint, 2025. (submitted)
+* **Chuanfu Xiao**, Jiaxin Zeng\*, [A novel block-alternating iterative algorithm for retrieving top-k elements from factorized tensors](https://arxiv.org/pdf/2511.07898), preprint, 2025. (submitted)
 * Zeyu Li, **Chuanfu Xiao\***, Yang Wang\*, Xiang Liu, Zhenheng Tang, Baotong Lu, Mao Yang, Xinyu Chen, Xiaowen Chu\*, [AnTKV: anchor token-aware sub-bit vector quantization for KV cache in large language models](https://arxiv.org/abs/2506.19505), preprint, 2025. (submitted)
 * Zhonghao Sun, Jizu Huang\*, **Chuanfu Xiao**, Chao Yang, [HaTT: Hadamard avoiding TT recompression and its applications](https://arxiv.org/abs/2410.04385), preprint, 2025. (submitted)
 * **Chuanfu Xiao**, Kejun Tang\*, Zhitao Zhu, [Provable low-rank tensor-train approximations in the inverse of large-scale structured matrices](https://arxiv.org/abs/2501.07210), Mathematics of Computation, 2025.
